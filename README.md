@@ -1,5 +1,6 @@
 <h2 align="center">
-  <marquee scrollamount="10">👩‍💻 Hey there, I'm Shamna Fathima – Coding with passion!</marquee>
+  👩‍💻 Hey there, I'm Shamna Fathima – Coding with passion!
+  🎓 Aspiring Software Developer | 💻 Java & Front-End Focused | 🌐 Passionate Web Creator</marquee>
 </h2>
 
 <p align="center">
@@ -9,11 +10,11 @@
 ----
 
 ### 🌟 About Me
-
-- 🌱 Passionate about web and software development  
-- 💡 Quick learner in HTML, CSS, JS, Java, PHP, Python  
-- 💻 Exploring WordPress, Git, MySQL, and UI/UX design  
-- 🎯 Focused on building interactive and user-friendly projects  
+- 🌱 Aspiring Java & Front-End Developer
+- 💻 Skilled in HTML, CSS, JavaScript, PHP, MySQL, Java, Python
+- 🛠️ Currently learning WordPress and Flutter for modern web and mobile app development
+- 🎯 Passionate about building user-friendly, responsive, and scalable web apps
+- 💻 Exploring WordPress, Git, MySQL, and UI/UX design   
 - 🚀 Always excited to take on new challenges and learn!
 
 
@@ -21,25 +22,23 @@
 
 ### 🧩 Projects
 
-🔹 **Tic Tac Toe Game**  
-`HTML + CSS + JS`  
-> A colorful interactive web game with welcome screen, animated gameplay, and score tracking.
+### 🧩 Projects
 
-🔹 **Zam Flora – E-commerce Website**  
-`HTML + CSS + JS`  
-> A flower shop web app with carousel, category filters (Seasonal, Luxury, Bouquets), animated UI, and responsive design.
+🕹️ **[Tic Tac Toe Game](https://github.com/ShamnaFathima/tic-tac-toe)**  
+> Built with HTML, CSS, JavaScript. Features welcome screen, score system, and animations.
 
-🔹 **Typing Speed Test Web App**  
-`JS + HTML`  
-> Tracks typing speed, stores login username, displays it on certificates and welcome page, includes timer and accuracy checker.
+🌸 **[Zam Flora – E-commerce Website](https://github.com/ShamnaFathima/zam-flora)**  
+> HTML, CSS, JS | Flower shop with product carousel, filter system, and responsive design.
 
-🔹 **ATM Simulation System**  
-`Java (OOP)`  
-> Console-based ATM system with pin validation, balance check, cash withdrawal, and transaction log simulation.
+⌨️ **[Typing Speed Test](https://github.com/ShamnaFathima/typing-speed-test)**  
+> JavaScript web app to calculate typing speed, issue certificates, and store login name dynamically.
 
-🔹 **Image Classification Project**  
-`Python`  
-> Categorizes uploaded images using basic classification logic with PIL and predefined filters.
+🖥️ **[ATM Simulator (Java)](https://github.com/ShamnaFathima/atm-simulator)**  
+> Simulated ATM system using object-oriented principles.
+
+📷 **[Image Classifier](https://github.com/ShamnaFathima/image-classifier)**  
+> Basic machine learning implementation with categorized image predictions.
+
 
 ---
 
