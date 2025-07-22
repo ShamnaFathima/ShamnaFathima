@@ -30,7 +30,7 @@
 🕹️ **[Tic Tac Toe Game](https://github.com/ShamnaFathima/tic-tac-toe)**  
 > Built with HTML, CSS, JavaScript. Features welcome screen, score system, and animations.
 
-🌸 **[Zam Flora – E-commerce Website](https://github.com/ShamnaFathima/zam-flora)**  
+🌸 **[Zam Flora – E-commerce Website](https://github.com/ShamnaFathima/Web-designs)**  
 > HTML, CSS, JS | Flower shop with product carousel, filter system, and responsive design.
 
 ⌨️ **[Typing Speed Test](https://github.com/ShamnaFathima/typing-speed-test)**  
