@@ -1,7 +1,10 @@
 <h2 align="center">
   👩‍💻 Hey there, I'm Shamna Fathima – Coding with passion!
-  🎓 Aspiring Software Developer | 💻 Java & Front-End Focused | 🌐 Passionate Web Creator</marquee>
+  
+  🎓  Java & Front-End Focused | 🌐 Passionate Web Creator
 </h2>
+
+
 
 <p align="center">
   <img src="https://media.tenor.com/iMUKJ0TEeOkAAAAM/anime-keyboard.gif" alt="Coding GIF" width="400"/>
