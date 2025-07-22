@@ -27,20 +27,18 @@
 
 ### 🧩 Projects
 
-🕹️ **[Tic Tac Toe Game](https://github.com/ShamnaFathima/tic-tac-toe)**  
+🕹️ **[Tic Tac Toe Game](https://github.com/ShamnaFathima/Tic-tac-toe)**  
 > Built with HTML, CSS, JavaScript. Features welcome screen, score system, and animations.
 
 🌸 **[Zam Flora – E-commerce Website](https://github.com/ShamnaFathima/Web-designs)**  
 > HTML, CSS, JS | Flower shop with product carousel, filter system, and responsive design.
 
-⌨️ **[Typing Speed Test](https://github.com/ShamnaFathima/typing-speed-test)**  
+⌨️ **[Typing Speed Test](https://github.com/ShamnaFathima/Typing-speed)**  
 > JavaScript web app to calculate typing speed, issue certificates, and store login name dynamically.
 
-🖥️ **[ATM Simulator (Java)](https://github.com/ShamnaFathima/atm-simulator)**  
+🖥️ **[ATM Simulator (Java)](https://github.com/ShamnaFathima/ATM-simulation-system)**  
 > Simulated ATM system using object-oriented principles.
 
-📷 **[Image Classifier](https://github.com/ShamnaFathima/image-classifier)**  
-> Basic machine learning implementation with categorized image predictions.
 
 
 ---
