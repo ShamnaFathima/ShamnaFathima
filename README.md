@@ -25,8 +25,6 @@
 
 ### 🧩 Projects
 
-### 🧩 Projects
-
 🕹️ **[Tic Tac Toe Game](https://github.com/ShamnaFathima/Tic-tac-toe)**  
 > Built with HTML, CSS, JavaScript. Features welcome screen, score system, and animations.
 
